@@ -1,3 +1,3 @@
 # Backstage-Talks
 
-just practising frontend
+just practicing frontend.
